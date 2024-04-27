@@ -1,0 +1,6 @@
+this is my small attempt to dive into world of compilers. I have always been fascinated by them. I would be following Alex Aiken, he is stanford professor.
+
+following is course description as stated on course website:
+In this course, you will learn principles and practices for design and implementation of compilers and interpreters. Topics covered include: lexical analysis; parsing theory; symbol tables; type systems; scope; semantic analysis; intermediate representations; runtime environments; code generation; and basic program analysis and optimization. Students will construct a compiler for a simple object-oriented language during the course's programming projects.
+
+the link for the course:http: //openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers
